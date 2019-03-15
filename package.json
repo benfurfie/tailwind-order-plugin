@@ -1,0 +1,22 @@
+{
+  "name": "tailwind-order-plugin",
+  "version": "1.0.0",
+  "description": "A plugin for adding the order property as a utility class for tailwindcss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tailwindcss"
+  ],
+  "author": "James O'Toole",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ubc-web-services/tailwind-order-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ubc-web-services/tailwind-order-plugin/issues"
+  },
+  "homepage": "https://github.com/ubc-web-services/tailwind-order-plugin#readme"
+}
