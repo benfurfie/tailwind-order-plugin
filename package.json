@@ -1,6 +1,6 @@
 {
   "name": "tailwind-order-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A plugin for adding the order property as a utility class for tailwindcss",
   "main": "index.js",
   "scripts": {
